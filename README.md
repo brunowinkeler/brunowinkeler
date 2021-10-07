@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Bruno Winkeler!
 
-- 🔭 I’m currently working on Embedded C/C++ for Firmware Development
+- 🔭 I’m currently working with Embedded C/C++ for Firmware Development
 - 🌱 I’m currently learning NodeJS and React
-- 📫 How to reach me: brunowinkeler@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/brunowinkeler/">brunowinkeler</a>
+- 📫 E-mail: brunowinkeler@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/brunowinkeler/">brunowinkeler</a>
 - 😄 Pronouns: He/Him
 
 <div align="center">
