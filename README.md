@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Bruno Winkeler!
 
 - 🔭 I’m currently working with Embedded C/C++ for Firmware Development
-- 🌱 I’m currently learning NodeJS and React
+- 🌱 I’m currently learning Spring Boot and Angular
 - 📫 E-mail: brunowinkeler@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/brunowinkeler/">brunowinkeler</a>
 - 😄 Pronouns: He/Him
 
